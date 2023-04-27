@@ -2,10 +2,10 @@ title: Senam KWASSI # your name (or website title) here
 logo: "/images/photo_linkedin_b.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Ingénieure spécialisée en Data Science et Intelligence Artificielle. 6 mois d'expérience en tant que Data Scientist chez Orange Business Services.<br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/senam-kwassi/">Mon profil Linkedin</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
