@@ -5,7 +5,7 @@
 ### Computer vision
 <p>Le but de ce projet est l'identification de la race d'un chien sur une image. Ainsi, pour une image donnée, je donne la probabilité que le chien appartienne à chacune des différentes races. Il s'agit d'un problème de classification multi-classe où l’objectif est de prédire correctement une classe parmi <strong>n</strong> classes. De plus, les données d'entrées sont des images, ce qui implique l'utilisation d'un modèle de Deep Learning.
 </p>
-<p>  Score :  <p>
+<p>  Score :  </p>
   
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
   
@@ -16,7 +16,7 @@
 ### Prédiction de fraudes bancaires
 <p>Le but de ce projet est l'identification de la race d'un chien sur une image. Ainsi, pour une image donnée, je donne la probabilité que le chien appartienne à chacune des différentes races. Il s'agit d'un problème de classification multi-classe où l’objectif est de prédire correctement une classe parmi <strong>n</strong> classes. De plus, les données d'entrées sont des images, ce qui implique l'utilisation d'un modèle de Deep Learning.
 </p>
-<p>  Score :  <p>
+<p>  Score :  </p>
   
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
   
@@ -27,7 +27,7 @@
 ### Système de recommendation
 <p>Le but de ce projet est l'identification de la race d'un chien sur une image. Ainsi, pour une image donnée, je donne la probabilité que le chien appartienne à chacune des différentes races. Il s'agit d'un problème de classification multi-classe où l’objectif est de prédire correctement une classe parmi <strong>n</strong> classes. De plus, les données d'entrées sont des images, ce qui implique l'utilisation d'un modèle de Deep Learning.
 </p>
-<p>  Score :  <p>
+<p>  Score :  </p>
   
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
   
@@ -41,7 +41,7 @@
   Il s'agit d'un problème de régression.
   Ajouter quelques images du projet
 </p>
-  <p>  Score :  <p>
+  <p>  Score :  </p>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
@@ -53,7 +53,7 @@
 ### Bulldozers Price Prediction
 <p>Dans quelle mesure pouvons-nous prédire le prix de vente futur d'un bulldozer, compte tenu de ses caractéristiques et des précédents exemples de prix de vente de bulldozers similaires?  
   Ce projet consiste à créer un modèle capable de repondre à cette problématique. <p>
- <p>  Score :  <p>
+ <p>  Score :  </p>
  
 [View code on Github](https://github.com/KwassiSenam/end-to-end-structured-data-projects/blob/16085cb285cf3fe31d09e683b463a1aabb17ad25/bulldozer-price-prediction-project/bulldozer-sale-price.ipynb)
 
