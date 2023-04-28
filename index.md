@@ -52,7 +52,7 @@
   
 ### Bulldozers Price Prediction
 <p>Dans quelle mesure pouvons-nous prédire le prix de vente futur d'un bulldozer, compte tenu de ses caractéristiques et des précédents exemples de prix de vente de bulldozers similaires?  
-  Ce projet consiste à créer un modèle capable de repondre à cette problématique. <p>
+  Ce projet consiste à créer un modèle capable de repondre à cette problématique. </p>
  <p>  Score :  </p>
  <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
