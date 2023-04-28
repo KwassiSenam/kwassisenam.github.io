@@ -2,14 +2,11 @@
 
 ---
 
-### Classification d'images 
-<p>Dans ce notebook, 
+### Computer vision
+<p>Le but de ce projet est l'identification de la race d'un chien sur une image. Ainsi, pour une image donnée, je donne la probabilité que le chien appartienne à chacune des différentes races. Il s'agit d'un problème de classification multi-classe où l’objectif est de prédire correctement une classe parmi <strong>n<strong> classes. De plus, les données d'entrées sont des images, ce qui implique l'utilisation d'un modèle de Deep Learning.
 ....
 </p>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
-
 [View code on Colab](https://colab.research.google.com/drive/1y2qEuqNAQJxy4vXIHbMHrZNzv9Xs0nf0?usp=sharing)
 
 ---
