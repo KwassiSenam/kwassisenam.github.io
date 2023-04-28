@@ -54,7 +54,9 @@
 <p>Dans quelle mesure pouvons-nous prédire le prix de vente futur d'un bulldozer, compte tenu de ses caractéristiques et des précédents exemples de prix de vente de bulldozers similaires?  
   Ce projet consiste à créer un modèle capable de repondre à cette problématique. <p>
  <p>  Score :  <p>
-  
+ 
+[View code on Github](https://github.com/KwassiSenam/end-to-end-structured-data-projects/blob/16085cb285cf3fe31d09e683b463a1aabb17ad25/bulldozer-price-prediction-project/bulldozer-sale-price.ipynb)
+
 ---
 
 ### Quelques visualisations
