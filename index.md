@@ -13,7 +13,8 @@
 ---
 
 ### Deep NLP
-<p>Ce projet a pour but de construire un modèle de classification de texte <strong>LSTM</strong> pour classer les critiques d'une application. Il s'agit d'un sujet de Deep Learning.
+<p><i>on plus side look at the sky last night it was ablaze.</i> Ceci est un <strong>tweet</strong>. </p>
+<p>Peut-on déterminer avec les mots de ce tweet s'il annonce réellement une catastrophe? Ce projet a pour but de construire un modèle de classification de texte <strong>LSTM</strong> qui prédit quels tweets concernent des catastrophes réelles et lesquels ne le sont pas. Il s'agit d'un sujet de Deep Learning.
 </p>
   
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
