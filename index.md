@@ -1,4 +1,4 @@
-## Quelques projets en data science, machine learning, deep learning
+## Quelques projets en data science, machine learning et deep learning
 
 ---
 
