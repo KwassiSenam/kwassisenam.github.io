@@ -33,11 +33,11 @@
 
 ---
   
-### Système de recommendation d'exercices physiques
-<p>Ce projet a pour objectif de créer des recommandations pour un utilisateur en fonction de la similarité entre les exercices physiques. Ce système de recommandations est basé sur une méthode appelée le <strong>filtrage collaboratif actif</strong>. De plus, les données d'entrées sont des images, ce qui implique l'utilisation d'un modèle de Deep Learning.
+### Analyse de données
+<p>On remarque que l'intéret pour le sport augmente d'année en années. Les gens semblent être de plus en plus investis dans le maintien de leur condition physique. Ce qui a profité aux e-commerces en sport qui est devenu une activité très lucrative. Dans ce projet, j'étudie quelques e-commerces pour trouver les produits les plus achétés, leurs caractéristiques afin de determniner les meilleurs produits à vendre si l'on décide de se lancer dans une telle activité.
 </p>
   
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/HistGradientBoosting-white?logo=HistGradientBoosting)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
   
 [View code on Colab](https://colab.research.google.com/drive/1CfFEmdly9sQrRkHiZDRy5HqIqndeQa7l?usp=sharing)
 
