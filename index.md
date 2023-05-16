@@ -17,7 +17,7 @@
 <p>Peut-on déterminer avec les mots de ce tweet s'il annonce réellement une catastrophe? Ce projet a pour but de construire un modèle de classification de texte <strong>LSTM</strong> qui prédit quels tweets concernent des catastrophes réelles et lesquels ne le sont pas. Il s'agit d'un sujet de Deep Learning.
 </p>
   
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
   
 [View code on Colab](https://colab.research.google.com/drive/1X8e8oErefGDwdU5MCjMKrYQ2LsrCyA6_?usp=sharing)
 
@@ -27,7 +27,7 @@
 <p>Dans ce projet, j'ai développé un modèle de machine learning capable de prédire une situation de fraude sur les paiements en ligne à l'aide de l'apprentissage automatique.
 </p>
   
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/XGBoost-white?logo=xgboost)](#)
   
 [View code on Colab](https://colab.research.google.com/drive/1eei4RjOujFreRnKs6iRlgv6mVEmWiIDm?usp=sharing)
 
