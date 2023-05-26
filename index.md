@@ -64,7 +64,7 @@
 ---
 
 ### Identification du sentiment associé à un avis sur un film
-<p> Dans ce notebook, j'entraine un modèle de machine learning capable de dire si l'utilisateur a un avis negatif, passable, neutre, assez-bien ou positif sur un film qu'il a regardé.
+<p> Dans ce notebook, j'entraine un modèle de machine learning capable de dire si l'utilisateur a un avis negatif ou positif sur un film qu'il a regardé.
 </p>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#)
