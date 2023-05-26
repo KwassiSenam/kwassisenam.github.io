@@ -39,7 +39,7 @@
  
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#)
 
-[View code on Github](https://github.com/KwassiSenam/end-to-end-structured-data-projects/blob/16085cb285cf3fe31d09e683b463a1aabb17ad25/bulldozer-price-prediction-project/bulldozer-sale-price.ipynb)
+[View code on Github](https://colab.research.google.com/drive/1vuGTtLCRgkHo7lNWzX_itTP_CybBYFWS?usp=sharing)
 
 ---
 
@@ -60,6 +60,16 @@
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
   
 [View code on Colab](https://colab.research.google.com/drive/1CfFEmdly9sQrRkHiZDRy5HqIqndeQa7l?usp=sharing)
+
+---
+
+### Identification du sentiment associé à un avis sur un film
+<p> Dans ce notebook, j'entraine un modèle de machine learning capable de dire si l'utilisateur a un avis negatif, passable, neutre, assez-bien ou positif sur un film qu'il a regardé.
+</p>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#)
+  
+[View code on Colab](https://colab.research.google.com/drive/1FvDJoHpvXE-5rr0lSK3KrwB6nz6D5_E5?usp=sharing)
 
 ---
 
